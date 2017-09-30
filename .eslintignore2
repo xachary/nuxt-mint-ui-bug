@@ -1,0 +1,6 @@
+# Always ignore node_modules.
+**/node_modules/**/*.*
+
+.nuxt/**/*.*
+
+plugins/mint-ui/**/*.*
