@@ -1,0 +1,1 @@
+# nuxt-mint-ui-bug
